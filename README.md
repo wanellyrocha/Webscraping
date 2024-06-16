@@ -1,4 +1,4 @@
-# Webscraping
+# Webscraping com Python
 
 ## Usando as bibliotecas BeautifulSoap e Selenium
 
